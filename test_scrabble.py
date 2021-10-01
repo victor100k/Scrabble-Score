@@ -43,4 +43,4 @@ def test_timed_score_2():
     assert score_word_timed(10, 0) == 0
 
 def test_timed_score_3():
-    assert score_word_timed(20, 5) == 6
+    assert score_word_timed(20, 5) == 
